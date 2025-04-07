@@ -37,7 +37,7 @@ The function `design_lap_joint(P, w, t1, t2)` computes an optimal design for:
 - Connection strength and efficiency
 
 It ensures:
-- Minimum of 2 bolts** for safety
+- Minimum of 2 bolts for safety
 - Safe shear and bearing capacities
 - Validations against "IS 800:2007" standards
 
@@ -60,7 +60,8 @@ Tested across:
 📦 Installation [Terminal]
 
 Clone the repository
-    git clone https://github.com/your_username/bolted_lap_joint
+    git clone https://github.com/Comrade-1729/Bolted_Lap_Joint_Design.git
+
 
 Navigate into the folder
     cd bolted_lap_joint
